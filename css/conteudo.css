@@ -1,0 +1,39 @@
+.imagens
+{
+    width: 1200px;
+    margin: auto;
+    padding: 3rem;
+}
+
+.imagens > div
+{
+    margin: 2rem;
+}
+
+.titulo
+{
+    text-align: center;
+    font-size: 25px;
+}
+
+.imagens 
+{
+    font-size: 2rem;
+    text-align: justify;
+}
+
+.imagens
+{
+    display: flex;
+    justify-content: space-around;
+}
+
+.card1, .card2, .card3
+{
+    width: 400px;
+    height: 300px;
+    font-size: 10px;
+}
+
+
+

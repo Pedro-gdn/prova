@@ -1,0 +1,28 @@
+header
+{
+    width: 100%;
+    background-color: black;
+    color: #fff;
+
+}
+
+nav
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.listaNav
+{
+    display: flex;
+    background-color: black;
+    color: #fff;
+    justify-content: center;
+}
+
+.listaNav li
+{
+    font-size: 15px;
+    margin: 1rem;
+}

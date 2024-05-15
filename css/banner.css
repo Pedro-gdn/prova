@@ -1,0 +1,18 @@
+.hero-image
+{
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    box-sizing: border-box;
+    background-image: url(../imagens/imagem-corporativa.jpe);
+}
+
+.hero-image h2
+{
+    display: flex;
+    text-align: center;
+    padding: 10px;
+    margin: auto;
+    color: palegreen;
+}
+
